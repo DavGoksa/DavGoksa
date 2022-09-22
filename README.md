@@ -1,5 +1,5 @@
-### <div align="center">I'm avox, a passionate frontend developer from Germany</div>  
-  
+<h1 align="center">Hi 👋, I'm avox</h1>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
 - 🔭 I’m currently working on a private project called Vice  
   
