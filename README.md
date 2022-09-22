@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm avox</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on a private project called Vice  
-
 <br/>  
 
 ## Languages and Tools
@@ -35,6 +33,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
