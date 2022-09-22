@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
 - 🔭 I’m currently working on a private project called Vice  
-  
 
 <br/>  
 
