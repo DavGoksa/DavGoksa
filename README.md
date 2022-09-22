@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avox&show_icons=true&theme=dark&locale=en" alt="avox" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avox&theme=dark" alt="avox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avox&theme=dark" alt="avox-bit" /></p>
 
